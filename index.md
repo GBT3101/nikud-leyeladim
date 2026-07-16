@@ -1,14 +1,27 @@
 ---
-title: ניקוד לילדים — The Letter Journey
+layout: default
+title: דף הבית
 permalink: /
+lang: he
+dir: rtl
+alt_url: /privacy-policy-en
+alt_label: English
+alt_lang: en
 ---
 
-# ניקוד לילדים — The Letter Journey
+# ניקוד לילדים
 
-An ad-free educational iOS app that teaches children aged 3–6 the Hebrew alphabet and its
-vowel signs (niqqud). No ads, no tracking, no data collection, no subscription.
+אפליקציה חינוכית לילדים בני 3–6, ללימוד האותיות העבריות וסימני הניקוד.
+בלי פרסומות, בלי מעקב, בלי איסוף מידע ובלי מנוי.
 
-- [Privacy Policy](./privacy-policy)
-- [Support](./support)
+- [מדיניות פרטיות](./privacy-policy)
+- [תמיכה ושאלות נפוצות](./support)
 
-Contact: **HebrewForBeginners@gmail.com**
+## English
+
+- [Privacy Policy](./privacy-policy-en)
+- [Support](./support-en)
+
+---
+
+יצירת קשר: **HebrewForBeginners@gmail.com**

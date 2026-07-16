@@ -1,47 +1,61 @@
 ---
-title: Support
+layout: default
+title: תמיכה
 permalink: /support
+lang: he
+dir: rtl
+alt_url: /support-en
+alt_label: English
+alt_lang: en
+description: תמיכה ושאלות נפוצות על האפליקציה ניקוד לילדים.
 ---
 
-# Support — ניקוד לילדים (The Letter Journey)
+# תמיכה — ניקוד לילדים
 
-## Contact
+## יצירת קשר
 
-The fastest way to reach us is email. We read every message.
+הדרך המהירה ביותר להגיע אלינו היא במייל. אנחנו קוראים כל הודעה.
 
 **HebrewForBeginners@gmail.com**
 
 ---
 
-## Frequently asked questions
+## שאלות נפוצות
 
-### I paid, but the content is still locked
-Open the app, reach the purchase screen, and choose **Restore Purchase** ("שחזור קנייה").
-Purchases are tied to your Apple Account, so restoring works on any device you are signed
-in to — including a new phone.
+### שילמתי, אבל התוכן עדיין נעול
 
-### Is this a subscription?
-No. There is one optional purchase, paid once. There are no recurring charges and no
-further payments of any kind.
+פתחו את האפליקציה, הגיעו למסך הרכישה ובחרו **שחזור קנייה**. הרכישה משויכת לחשבון
+Apple שלכם, ולכן השחזור עובד בכל מכשיר שאתם מחוברים אליו — כולל טלפון חדש.
 
-### Why does the app ask me to type numbers?
-That is the parental gate. It keeps a young child from starting a payment or opening an
-email on their own. The numbers are spelled out in words, so an adult (or a confident
-reader) can pass it, and a three-year-old cannot.
+### זה מנוי?
 
-### The app plays sound when my phone is on silent
-This is deliberate — the recordings *are* the lesson, so the app would be useless without
-them. The app will not interrupt music or a podcast you already have playing.
+לא. יש רכישה אחת אופציונלית, שמשלמים עליה פעם אחת בלבד. אין חיובים חוזרים ואין
+תשלומים נוספים מכל סוג שהוא.
 
-### Does the app work without internet?
-Yes. Everything except making the purchase works offline.
+### למה האפליקציה מבקשת ממני להקליד מספרים?
 
-### What data do you collect about my child?
-None at all. See our [privacy policy](./privacy-policy).
+זו השאלה למבוגרים. היא מונעת מילד קטן להתחיל תשלום או לפתוח מייל בכוחות עצמו.
+המספרים כתובים במילים, כך שמבוגר (או קורא מיומן) יעבור אותה בקלות, וילד בן שלוש
+לא.
 
-### The app is in the wrong language
-Tap the flag button at the bottom-left of the opening screen to switch between Hebrew,
-English, and Russian.
+### האפליקציה משמיעה קול כשהטלפון במצב שקט
 
-### Which devices are supported?
-Any iPhone or iPad running iOS 17 or later.
+זו בחירה מכוונת — ההקלטות **הן** השיעור, ובלעדיהן האפליקציה חסרת ערך. עם זאת,
+האפליקציה לא תפסיק מוזיקה או פודקאסט שכבר מתנגנים אצלכם.
+
+### האפליקציה עובדת בלי אינטרנט?
+
+כן. כל האפליקציה עובדת גם בלי חיבור לאינטרנט, מלבד ביצוע הרכישה עצמה.
+
+### איזה מידע אתם אוספים על הילד שלי?
+
+שום מידע. ראו את [מדיניות הפרטיות](./privacy-policy) שלנו.
+
+### האפליקציה בשפה הלא נכונה
+
+הקישו על כפתור הדגל בפינה השמאלית התחתונה של מסך הפתיחה כדי לעבור בין עברית,
+אנגלית ורוסית.
+
+### באילו מכשירים האפליקציה נתמכת?
+
+בכל אייפון או אייפד עם iOS 17 ומעלה.

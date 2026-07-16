@@ -1,3 +1,7 @@
-title: ניקוד לילדים — The Letter Journey
-description: Privacy policy and support for the iOS app "ניקוד לילדים" (The Letter Journey).
-theme: jekyll-theme-minimal
+title: ניקוד לילדים
+description: מדיניות פרטיות ותמיכה לאפליקציה "ניקוד לילדים" — לימוד האותיות והניקוד לגיל הרך.
+# No theme: the pages use _layouts/default.html, which handles RTL and the
+# Hebrew/English toggle. The stock themes are LTR-only.
+defaults:
+  - scope: { path: "" }
+    values: { layout: "default" }

@@ -1,81 +1,85 @@
 ---
-title: Privacy Policy
+layout: default
+title: מדיניות פרטיות
 permalink: /privacy-policy
+lang: he
+dir: rtl
+alt_url: /privacy-policy-en
+alt_label: English
+alt_lang: en
+description: מדיניות הפרטיות של האפליקציה ניקוד לילדים. האפליקציה אינה אוספת שום מידע.
 ---
 
-# Privacy Policy — ניקוד לילדים (The Letter Journey)
+# מדיניות פרטיות — ניקוד לילדים
 
-**Last updated: 16 July 2026**
+<p class="updated">עודכן לאחרונה: 16 ביולי 2026</p>
 
-ניקוד לילדים ("the app") is an educational app that helps young children learn the
-Hebrew alphabet and vowel signs (niqqud). It is developed and published by Guy Ben
-Moshe ("we", "us").
+ניקוד לילדים ("האפליקציה") היא אפליקציה חינוכית שמלמדת ילדים צעירים את האותיות
+העבריות ואת סימני הניקוד. האפליקציה פותחה ומופצת על ידי גיא בן משה ("אנחנו").
 
-This app is designed for children. We have built it so that it collects **no personal
-information whatsoever** — not from children, and not from adults.
+האפליקציה מיועדת לילדים. בנינו אותה כך שהיא **אינה אוספת שום מידע אישי** — לא
+מילדים ולא ממבוגרים.
 
-## The short version
+## בקצרה
 
-- We do **not** collect, store, transmit, or sell any personal data.
-- We do **not** use analytics, advertising, or any third-party tracking.
-- We do **not** require an account, a login, or an email address to use the app.
-- The app contains **no ads** and **no links to social networks**.
-- We do not operate a server. Apart from making the optional purchase, which Apple
-  handles, the app works entirely offline.
+- איננו אוספים, שומרים, משדרים או מוכרים שום מידע אישי.
+- איננו משתמשים בכלי אנליטיקה, בפרסומות או במעקב כלשהו של צד שלישי.
+- אין צורך בחשבון, בהרשמה או בכתובת אימייל כדי להשתמש באפליקציה.
+- אין באפליקציה פרסומות ואין בה קישורים לרשתות חברתיות.
+- איננו מפעילים שרת. מלבד ביצוע הרכישה, שמטופלת כולה על ידי Apple, האפליקציה
+  עובדת לגמרי גם ללא חיבור לאינטרנט.
 
-## What the app stores on your device
+## מה האפליקציה שומרת במכשיר שלכם
 
-The app saves two small preferences **on your device only**, using the standard iOS
-preferences system. This information never leaves your device, and we never see it:
+האפליקציה שומרת שתי העדפות קטנות **במכשיר שלכם בלבד**, באמצעות מנגנון ההעדפות
+הרגיל של iOS. המידע הזה לעולם אינו יוצא מהמכשיר, ואנחנו לעולם לא רואים אותו:
 
-| What | Why |
+| מה נשמר | לשם מה |
 |---|---|
-| Your chosen interface language (Hebrew, English, or Russian) | So the app opens in the same language next time. |
-| Whether the one-time "unlock everything" purchase has been made | So paid content stays unlocked without asking the App Store on every launch. |
+| שפת הממשק שבחרתם (עברית, אנגלית או רוסית) | כדי שהאפליקציה תיפתח בפעם הבאה באותה שפה. |
+| האם בוצעה הרכישה החד-פעמית | כדי שהתוכן שנפתח יישאר פתוח, בלי לפנות ל־App Store בכל פתיחה מחדש. |
 
-Deleting the app removes both.
+מחיקת האפליקציה מוחקת את שניהם.
 
-## In-app purchase
+## רכישה בתוך האפליקציה
 
-The app offers a single, optional, one-time purchase that unlocks the full content.
-There is no subscription and no recurring charge.
+באפליקציה קיימת רכישה אחת, אופציונלית וחד-פעמית, שפותחת את כל התוכן. אין מנוי
+ואין חיוב חוזר מכל סוג שהוא.
 
-Purchases are handled **entirely by Apple** through the App Store. We never see, receive,
-or store your name, payment card, billing address, or Apple Account details. Apple's
-handling of that transaction is governed by Apple's own privacy policy.
+הרכישה מטופלת **כולה על ידי Apple**, דרך ה־App Store. אנחנו לעולם לא רואים, לא
+מקבלים ולא שומרים את שמכם, את פרטי כרטיס האשראי, את כתובת החיוב או את פרטי חשבון
+Apple שלכם. הטיפול של Apple בעסקה כפוף למדיניות הפרטיות של Apple.
 
-In line with Apple's rules for children's apps, the purchase screen is placed behind a
-parental gate that requires an adult to answer a question before any payment can begin.
+בהתאם לכללים של Apple לאפליקציות לילדים, מסך הרכישה מוגן מאחורי שאלה למבוגרים,
+כך שלא ניתן להתחיל תשלום בלי שמבוגר עונה עליה.
 
-## Children's privacy
+## פרטיות של ילדים
 
-This app is intended for young children. It collects no data at all, so there is no
-personal information of a child for us to use, share, sell, or disclose — to anyone, for
-any purpose.
+האפליקציה מיועדת לילדים צעירים. היא אינה אוספת שום מידע, ולכן אין בידינו שום
+מידע אישי של ילד שנוכל להשתמש בו, לשתף אותו, למכור אותו או למסור אותו — לאף אחד
+ולשום מטרה.
 
-The app contains no behavioural advertising, no contextual advertising, no analytics SDKs,
-and no third-party code that could collect information.
+אין באפליקציה פרסום מבוסס-התנהגות, אין פרסום מבוסס-הקשר, אין ערכות אנליטיקה ואין
+שום קוד של צד שלישי שעשוי לאסוף מידע.
 
-The only way to leave the app is an optional contact-email link on the About screen, which
-sits behind a parental gate so that a child cannot open it unaided.
+הדרך היחידה לצאת מהאפליקציה היא קישור אופציונלי לאימייל במסך "אודות", והוא מוגן
+מאחורי שאלה למבוגרים, כדי שילד לא יוכל לפתוח אותו בכוחות עצמו.
 
-## Data we receive from Apple
+## מידע שמגיע אלינו מ־Apple
 
-If you choose to contact us by email, we will see your email address and whatever you write
-to us — simply because you sent it. We use it only to reply to you, and we do not add it to
-any mailing list.
+אם תבחרו לכתוב לנו במייל, נראה את כתובת המייל שלכם ואת מה שכתבתם — פשוט משום
+ששלחתם לנו אותם. נשתמש בהם רק כדי להשיב לכם, ולא נוסיף אתכם לשום רשימת תפוצה.
 
-Apple may provide us with aggregate, anonymous statistics about downloads and crashes. This
-information is not linked to any individual and cannot identify you or your child.
+Apple עשויה למסור לנו נתונים סטטיסטיים מצטברים ואנונימיים על הורדות ועל קריסות.
+מידע זה אינו מקושר לאף אדם ואינו מאפשר לזהות אתכם או את ילדכם.
 
-## Changes to this policy
+## שינויים במדיניות זו
 
-If this policy ever changes, the updated version will be posted at this address and the
-"last updated" date above will change. Because the app collects no data, we do not expect
-material changes.
+אם מדיניות זו תשתנה, הגרסה המעודכנת תפורסם בכתובת הזו, ותאריך העדכון שלמעלה
+ישתנה. מכיוון שהאפליקציה אינה אוספת מידע, איננו צופים שינויים מהותיים.
 
-## Contact
+## יצירת קשר
 
-Questions about this policy are welcome:
+נשמח לענות על כל שאלה בנוגע למדיניות זו:
 
 **HebrewForBeginners@gmail.com**
