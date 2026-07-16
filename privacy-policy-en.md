@@ -3,7 +3,7 @@ layout: default
 title: Privacy Policy
 permalink: /privacy-policy-en
 lang: en
-dir: ltr
+text_dir: ltr
 alt_url: /privacy-policy
 alt_label: עברית
 alt_lang: he

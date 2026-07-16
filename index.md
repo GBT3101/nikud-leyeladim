@@ -3,7 +3,7 @@ layout: default
 title: דף הבית
 permalink: /
 lang: he
-dir: rtl
+text_dir: rtl
 alt_url: /privacy-policy-en
 alt_label: English
 alt_lang: en

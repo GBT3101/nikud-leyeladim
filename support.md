@@ -3,7 +3,7 @@ layout: default
 title: תמיכה
 permalink: /support
 lang: he
-dir: rtl
+text_dir: rtl
 alt_url: /support-en
 alt_label: English
 alt_lang: en
