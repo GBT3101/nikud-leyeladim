@@ -7,7 +7,7 @@ text_dir: ltr
 alt_url: /support
 alt_label: עברית
 alt_lang: he
-description: Support and FAQ for the iOS app ניקוד לילדים (The Letter Journey).
+description: Support and FAQ for ניקוד לילדים (The Letter Journey) on Android and iOS.
 ---
 
 # Support — ניקוד לילדים (The Letter Journey)
@@ -24,8 +24,9 @@ The fastest way to reach us is email. We read every message.
 
 ### I paid, but the content is still locked
 Open the app, reach the purchase screen, and choose **Restore Purchase** ("שחזור קנייה").
-Purchases are tied to your Apple Account, so restoring works on any device you are signed
-in to — including a new phone.
+On Android the purchase is tied to your Google Account, so restoring works on any device
+you are signed in to — including a new phone. On iPhone and iPad it is tied to your Apple
+Account in the same way.
 
 ### Is this a subscription?
 No. There is one optional purchase, paid once. There are no recurring charges and no
@@ -44,11 +45,21 @@ them. The app will not interrupt music or a podcast you already have playing.
 Yes. Everything except making the purchase works offline.
 
 ### What data do you collect about my child?
-None at all. See our [privacy policy](./privacy-policy-en).
+None at all. The app collects nothing, has no ads, and contains no tracking or analytics.
+See our [privacy policy](./privacy-policy-en).
 
 ### The app is in the wrong language
-Tap the flag button at the bottom-left of the opening screen to switch between Hebrew,
-English, and Russian.
+Press and **hold** the flag button at the bottom-left of the opening screen for about a
+second, then choose Hebrew, English, or Russian.
+
+### How do I open the About screen?
+Press and **hold** the "?" button at the bottom-right of the opening screen.
 
 ### Which devices are supported?
-Any iPhone or iPad running iOS 17 or later.
+- **Android:** any phone or tablet running Android 8.0 (Oreo, API 26) or later.
+- **iPhone / iPad:** iOS 17 or later.
+
+### I'm a closed-test tester — how do I install it?
+Use the Google Play opt-in link we sent you and install from Google Play. Please don't
+sideload the APK: a sideloaded build cannot reach Google Play billing, so the purchase
+screen will not work.
